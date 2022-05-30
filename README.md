@@ -1,0 +1,23 @@
+- I’m {
+- @Carlosnyckolas7
+- I Have 15 years
+- I'm starting to program
+- }
+-  
+- I’m interested in {
+- HTML
+- CSS
+- J
+- JS
+- GO
+- }
+-  
+- I’m currently learning {
+- HTML
+- CSS
+- GO
+- 
+- }
+- How to reach me {
+  carlosnyckolas2@gmail.com
+}
