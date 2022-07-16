@@ -14,6 +14,6 @@
 
 
 
-perfil{
+#perfil{
     align-item:rigth;
 }
